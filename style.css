@@ -1,0 +1,45 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+
+background-color: indianred !important; 
+}
+  /* changes all p elements to the specific font */
+p{
+  font-family: Kaushan Script !important;
+
+/* makes only the p elements with this class this color */
+}
+
+button{
+font-family: Kaushan Script !important;
+background-color: indianred !important; 
+}
+.fw-bold{ 
+  color:#FDD017;
+    }
+
+.link-opacity-100{ 
+color:#FDD017;
+  } 
+
+/* added an additional id to override bootstrap styling */
+#addy{
+  background-color: indianred !important ;
+}
+
+.card-img-top{ 
+  width: 500px;
+  height:400px;
+}
+.card-body{ 
+  width: 500px;
+  height:200px;
+}
+
